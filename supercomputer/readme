@@ -1,5 +1,6 @@
 1. environment: 
 conda env create -f 0_docking_env.yml
+rf-score-vs_v1.0_linux_2.7
 
 2. Running order：
 1ab--1c1--1c2--1c3_rescore_array--1c3_rescore_merge--final_merge--run_ml
