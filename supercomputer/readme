@@ -7,4 +7,4 @@ Key installation info:
   vina_split_1.2.7_linux_x86_64
 
 2. Running order (.sh files)：
-1ab--1c1--1c2--1c3_rescore_array--1c3_rescore_merge--final_merge_(laptop)--run_ml
+1ab--1c1--1c2--1c3_rescore_array--1c3_rescore_merge--final_merge_(laptop).py--run_ml
