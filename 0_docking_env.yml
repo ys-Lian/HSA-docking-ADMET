@@ -1,0 +1,45 @@
+name: docking
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib-base
+  - pillow
+  - rdkit
+  - lxml
+  - networkx
+  - cython
+  - openbabel
+  - pip
+  - pip:
+      - alembic==1.18.5
+      - cloudpickle==3.1.2
+      - colorama==0.4.6
+      - colorlog==6.10.1
+      - dimorphite-dl==2.0.2
+      - et-xmlfile==2.0.0
+      - filelock==3.29.7
+      - jinja2==3.1.6
+      - llvmlite==0.48.0
+      - loguru==0.7.3
+      - meeko==0.7.1
+      - mpmath==1.3.0
+      - narwhals==2.24.0
+      - networkx==3.4.2
+      - numba==0.66.0
+      - openpyxl==3.1.5
+      - optuna==4.9.0
+      - pyyaml==6.0.3
+      - seaborn==0.13.2
+      - shap==0.49.1
+      - slicer==0.0.8
+      - sympy==1.13.1
+      - tomli==2.4.1
+      - torch==2.6.0
+      - tqdm==4.68.4
+      - xgboost==1.7.6

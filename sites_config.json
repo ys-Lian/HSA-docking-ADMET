@@ -1,0 +1,90 @@
+[
+  {
+    "name": "1HK1_T44_3003",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\1HK1_T44_3003_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\1HK1_T44_3003_receptor.pdb",
+    "center_x": 27.104,
+    "center_y": 11.306,
+    "center_z": 30.801,
+    "size_x": 31.5,
+    "size_y": 32.5,
+    "size_z": 34.4
+  },
+  {
+    "name": "2BXD_RWF_2001",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXD_RWF_2001_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXD_RWF_2001_receptor.pdb",
+    "center_x": 3.99,
+    "center_y": -10.673,
+    "center_z": 7.568,
+    "size_x": 28.9,
+    "size_y": 30.4,
+    "size_z": 33.2
+  },
+  {
+    "name": "2BXF_DZP_2001",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXF_DZP_2001_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXF_DZP_2001_receptor.pdb",
+    "center_x": 9.186,
+    "center_y": 0.662,
+    "center_z": -14.454,
+    "size_x": 31.3,
+    "size_y": 31.4,
+    "size_z": 28.0
+  },
+  {
+    "name": "2BXG_IBP_2002",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXG_IBP_2002_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\2BXG_IBP_2002_receptor.pdb",
+    "center_x": -1.453,
+    "center_y": -16.712,
+    "center_z": -9.999,
+    "size_x": 30.1,
+    "size_y": 32.8,
+    "size_z": 28.9
+  },
+  {
+    "name": "3JQZ_LQZ_586",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\3JQZ_LQZ_586_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\3JQZ_LQZ_586_receptor.pdb",
+    "center_x": 45.08,
+    "center_y": 8.714,
+    "center_z": -36.821,
+    "size_x": 33.2,
+    "size_y": 32.0,
+    "size_z": 25.8
+  },
+  {
+    "name": "4L9Q_9TP_601",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\4L9Q_9TP_601_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\4L9Q_9TP_601_receptor.pdb",
+    "center_x": -13.761,
+    "center_y": -9.716,
+    "center_z": 8.951,
+    "size_x": 37.5,
+    "size_y": 38.2,
+    "size_z": 33.3
+  },
+  {
+    "name": "4LB9_EVP_605",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\4LB9_EVP_605_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\4LB9_EVP_605_receptor.pdb",
+    "center_x": 32.965,
+    "center_y": -4.666,
+    "center_z": 19.887,
+    "size_x": 35.2,
+    "size_y": 33.1,
+    "size_z": 37.1
+  },
+  {
+    "name": "6R7S_SAS_605",
+    "receptor": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\6R7S_SAS_605_receptor.pdb",
+    "receptor_pdb": "D:\\0_shorthouse_lab\\Term_3_project\\round_3\\sites_out\\6R7S_SAS_605_receptor.pdb",
+    "center_x": 11.755,
+    "center_y": 9.203,
+    "center_z": 42.371,
+    "size_x": 36.4,
+    "size_y": 33.2,
+    "size_z": 31.2
+  }
+]
