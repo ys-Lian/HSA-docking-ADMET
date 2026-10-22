@@ -1,5 +1,5 @@
 1. environment: 
-Install using this command: conda env create -f 0_docking_env.yml
+Install using the command: conda env create -f 0_docking_env.yml
 Or install manually.
 
 Key installation info:
