@@ -1,5 +1,6 @@
 1. environment: 
 conda env create -f 0_docking_env.yml
+
 rf-score-vs_v1.0_linux_2.7
 vina_split_1.2.7_linux_x86_64
 
